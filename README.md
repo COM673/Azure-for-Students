@@ -1,5 +1,10 @@
 # Registering on Azure for Students
-
+  
+  
+**For students that try these steps and get a 'not available message', try these steps instead: [Microsoft Imagine](./microsoft-imagine-steps.md)**   
+    
+       
+       
 You will need a phone that can receive SMS messages and your college email/password before following these steps.  
 At **no** point in any of these steps should you need to enter credit or debit card details. If you are asked to, you've taken a wrong turn somewhere.  
 
